@@ -1,0 +1,1 @@
+It is a simple application to generate the password and let us to copy the password to clipboard.
